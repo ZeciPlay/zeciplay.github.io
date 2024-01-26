@@ -1,0 +1,19 @@
+body {
+  border: solid 3px darkblue;
+  background-color: lightcyan;
+  border-radius: 105px 50px 105px 50px;
+  margin: 5px 5px 5px 5px;
+}
+h1 {
+  text-align: center;
+  padding-left: 80px;
+  padding-right: 80px;
+}
+
+img {
+  padding-left: 150px;
+  padding-bottom: 0;
+}
+.brawlstars {
+  margin: 0 0 50px 148px;
+}
