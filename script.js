@@ -1,3 +1,3 @@
-const lastName =
-"Lightyear";
-console.log(lastName);
+document.addEventListener('DOMContentLoaded', function () {
+    alert('Seu JavaScript está funcionando!');
+});
