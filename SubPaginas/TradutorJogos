@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meu Site</title>
+    <link rel="stylesheet" href="estilo.css">
+</head>
+<body>
+
+    <h2>O link do app está com encurtado</h2>
+    <p>Para o dono do site ganha uma esmola ¯\_(ツ)_/¯</p>
+    
+    <a href="https://seu-link-encurtado-aqui" target="_blank">Link Encurtado</a>
+
+</body>
+</html>
