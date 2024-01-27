@@ -14,8 +14,6 @@ img {
   padding-left: 276px;
 }
 a {
-  text-align: center;
-  padding-left: 80px;
-  padding-right: 80px;
-  border: solid 3px orangle;
+  padding-left: 0px;
+  padding-right: 150px;
 }
