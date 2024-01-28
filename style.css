@@ -8,3 +8,14 @@ h1 {
   padding-left: 80px;
   padding-right: 80px;
 }
+img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+a {
+  display: block;
+  text-align: center;
+  margin-top: 10px;
+}
