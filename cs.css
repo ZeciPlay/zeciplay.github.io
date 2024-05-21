@@ -1,0 +1,18 @@
+#A {
+  color: darkorange;
+  font-style: italic;
+}
+body {
+  background-color: cyan;
+  border: solid 5px darkblue;
+  border-radius: 40px;
+  font-size: 10px;
+  text-align: center;
+}
+img {
+  border: solid 5px black;  
+  border-radius: 35px;
+}
+a {
+  font-size: 25;
+}
